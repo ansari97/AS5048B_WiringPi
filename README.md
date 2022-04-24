@@ -5,5 +5,8 @@ This is a class library file to interface the non-contact rotary poisition senso
 
 This class library uses the wiringPiI2C library for iinterfacing the sensor using the wiringPiI2CReadReg8() and the wiringPiI2CWriteReg8() functions.
 
-The wiringPi library is required for this class to work. Go to https://github.com/WiringPi for more instructions.
+The wiringPi library is required for this class to work. Go to https://github.com/WiringPi/WiringPi for more instructions.
+
+To use the as5048b library, compile into .o file before running the main program or simply include the cpp file at the header.
+
 
