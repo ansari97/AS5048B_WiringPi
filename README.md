@@ -13,7 +13,8 @@ To use the as5048b library, compile into .o file before running the main program
 * as5048b.h
 * as5048b.cpp
 * Examples
-    * ReadAngle
-    * BurnZeroAngle
+    * ReadAngle.cpp
+    * BurnZeroAngle.cpp
+    * EncoderDiagnostics.cpp
 
 
