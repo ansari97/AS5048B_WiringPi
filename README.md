@@ -10,8 +10,10 @@ The wiringPi library is required for this class to work. Go to https://github.co
 To use the as5048b library, compile into .o file before running the main program or simply include the cpp file at the header.
 
 ## Files
-*as5048b.h
-*as5048b.cpp
-*Examples
+* as5048b.h
+* as5048b.cpp
+* Examples
+    * ReadAngle
+    * BurnZeroAngle
 
 
