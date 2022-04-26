@@ -74,9 +74,10 @@ public:
 	void		setZeroReg(void); //set Zero to current angle position
 	void		zeroRegW(uint16_t regVal); //write Zero register value
 	uint16_t	zeroRegR(void); //read Zero register value
+	void		burnZero(void);
 
 	uint16_t	angleRegR(void); //read raw value of the angle register
-    double		angleB (int unit = U_RAW, bool newVal = true)
+    double		angle(int unit = U_RAW, bool newVal = true)
     uint8_t		diagR(void); //read diagnostic register
 
 };
