@@ -1,4 +1,7 @@
 # AS5048B_WiringPi
+
+*This is a work under progress!*
+
 AMS AS5048B library to interface the sensor with Raspberry Pi
 
 This is a class library file to interface the non-contact rotary poisition sensor AMS AS5048B using I2C with Raspberry Pi Zero W, Zero 2 W, 3 B+, and 4 B. Testing has been conducted using Raspeberry Pi Zero W.
@@ -17,6 +20,5 @@ To use the AS5048B library, compile into .o file before running the main program
     * BurnZeroAngle.cpp
     * EncoderDiagnostics.cpp
 
-*This is a work under progress!*
 
 
